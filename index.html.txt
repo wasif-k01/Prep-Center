@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Portal Link</title>
+</head>
+<body>
+    <h1>Click the link below to open the order portal:</h1>
+    <a href="order_portal.html" target="_blank">Open Order Portal</a>
+</body>
+</html>
